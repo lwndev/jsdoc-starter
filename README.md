@@ -16,5 +16,5 @@ An example of how you can use this project
 	$ git clone https://github.com/jsdoc3/jsdoc.git
 	$ alias jsdoc ./jsdoc/jsdoc
 	$ cd ../
-	$ git clone git@github.com:lwndev/jsdoc-starter.git
+	$ git clone git@github.com:lwndev/jsdoc-starter.git && cd jsdoc-starter
 	$ jsdoc **/* -u tutorials
